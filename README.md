@@ -1,5 +1,6 @@
 ###                                          Hi I am Kafia 👋
 ### Engineer, innovator, and storyteller — building solutions that make an impact!✨
+## A Python Enthusiast!
 Welcome to my GitHub Profile 😊
 
 <!--

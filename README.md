@@ -1,5 +1,5 @@
-### Hi I am Kafia 👋
-### Engineer, innovator, and storyteller — building solutions that make an impact!
+###                               Hi I am Kafia 👋
+### Engineer, innovator, and storyteller — building solutions that make an impact!✨
 Welcome to my GitHub Profile 😊
 
 <!--

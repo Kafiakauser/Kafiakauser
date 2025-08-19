@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kafia Kauser</h1>
-<h3 align="center">An engineer at heart, an innovator in spirit, and a storyteller by choice proudly from India, with Python as my favorite language.</h3>
+<h3 align="center">An Engineer at heart, an Innovator in spirit, and a Storyteller by choice Proudly from India, with Python as my favorite language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafiakauser&label=Profile%20views&color=0e75b6&style=flat" alt="kafiakauser" /> </p>
 

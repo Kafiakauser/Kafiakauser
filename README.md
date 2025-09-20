@@ -28,8 +28,3 @@
 <a href="https://medium.com/@kkauser50170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kkauser50170" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kafiakauser&show_icons=true&locale=en&layout=compact" alt="kafiakauser" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kafiakauser&show_icons=true&locale=en" alt="kafiakauser" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kafiakauser&" alt="kafiakauser" /></p>
